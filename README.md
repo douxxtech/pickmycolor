@@ -15,7 +15,7 @@ A **lightweight, cross-platform color picker desktop utility** built with Electr
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
