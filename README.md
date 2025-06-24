@@ -70,7 +70,7 @@ Edit `package.json > build` for further customization.
 
 ---
 
-## 📜 License
+## License
 
 Licensed under [NSDv1.0](LICENSE)
 
